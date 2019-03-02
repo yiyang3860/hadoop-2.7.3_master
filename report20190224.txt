@@ -1,0 +1,67 @@
+Configured Capacity: 83698397184 (77.95 GB)
+Present Capacity: 77268234240 (71.96 GB)
+DFS Remaining: 77268213760 (71.96 GB)
+DFS Used: 20480 (20 KB)
+DFS Used%: 0.00%
+Under replicated blocks: 0
+Blocks with corrupt replicas: 0
+Missing blocks: 0
+Missing blocks (with replication factor 1): 0
+
+-------------------------------------------------
+Live datanodes (3):
+
+Name: 192.168.33.133:50010 (slaver1)
+Hostname: slaver1
+Decommission Status : Normal
+Configured Capacity: 27899465728 (25.98 GB)
+DFS Used: 8192 (8 KB)
+Non DFS Used: 2120138752 (1.97 GB)
+DFS Remaining: 25779318784 (24.01 GB)
+DFS Used%: 0.00%
+DFS Remaining%: 92.40%
+Configured Cache Capacity: 0 (0 B)
+Cache Used: 0 (0 B)
+Cache Remaining: 0 (0 B)
+Cache Used%: 100.00%
+Cache Remaining%: 0.00%
+Xceivers: 1
+Last contact: Sun Feb 24 07:45:20 EST 2019
+
+
+Name: 192.168.33.135:50010 (slaver3)
+Hostname: slaver3
+Decommission Status : Normal
+Configured Capacity: 27899465728 (25.98 GB)
+DFS Used: 4096 (4 KB)
+Non DFS Used: 2190733312 (2.04 GB)
+DFS Remaining: 25708728320 (23.94 GB)
+DFS Used%: 0.00%
+DFS Remaining%: 92.15%
+Configured Cache Capacity: 0 (0 B)
+Cache Used: 0 (0 B)
+Cache Remaining: 0 (0 B)
+Cache Used%: 100.00%
+Cache Remaining%: 0.00%
+Xceivers: 1
+Last contact: Sun Feb 24 07:45:21 EST 2019
+
+
+Name: 192.168.33.134:50010 (slaver2)
+Hostname: slaver2
+Decommission Status : Normal
+Configured Capacity: 27899465728 (25.98 GB)
+DFS Used: 8192 (8 KB)
+Non DFS Used: 2119290880 (1.97 GB)
+DFS Remaining: 25780166656 (24.01 GB)
+DFS Used%: 0.00%
+DFS Remaining%: 92.40%
+Configured Cache Capacity: 0 (0 B)
+Cache Used: 0 (0 B)
+Cache Remaining: 0 (0 B)
+Cache Used%: 100.00%
+Cache Remaining%: 0.00%
+Xceivers: 1
+Last contact: Sun Feb 24 07:45:20 EST 2019
+
+
